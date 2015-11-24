@@ -9,3 +9,6 @@ The intent is that this information can then be combined together with internal 
 * Load to Solr
 * Run "more like this analysis" to do classification
 
+# Use import.io wherever possible
+
+
